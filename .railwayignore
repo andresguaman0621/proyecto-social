@@ -1,0 +1,13 @@
+# Archivos a ignorar en Railway deployment
+node_modules/
+.git/
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.md
+!DEPLOY.md
