@@ -28,12 +28,6 @@ interface FormData {
   mensaje: string;
 }
 
-interface Fase {
-  mes: number;
-  title: string;
-  color: string;
-}
-
 // Hook para animación de contador
 const useCounterAnimation = (end: number, duration: number = 2000) => {
   const [count, setCount] = useState<number>(0);
