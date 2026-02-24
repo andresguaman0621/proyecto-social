@@ -690,7 +690,7 @@ const ProyectoSocialWeb: React.FC = () => {
               <h3 className="text-lg font-bold mb-4">Contacto</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>Quito, Ecuador</li>
-                <li>nikiguado2410@gmail.com</li>
+                <li>nikiguado@gmail.com</li>
                 <li>+593 98-031-2205</li>
               </ul>
             </div>
